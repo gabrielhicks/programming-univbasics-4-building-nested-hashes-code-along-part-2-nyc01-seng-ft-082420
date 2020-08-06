@@ -59,7 +59,7 @@ def add_characters
    # Code your solution here:
 epic_tragedy[:additional_characters] = []
 epic_tragedy << { name: "Prince Escalus" }
-epic_tragedt << { name: "Apothecary" }
+epic_tragedy << { name: "Apothecary" }
 
 
    # After your code, the following line will return the altered hash
