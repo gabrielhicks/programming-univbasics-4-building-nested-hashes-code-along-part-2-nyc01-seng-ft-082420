@@ -25,7 +25,7 @@ def update_status
 romeo = epic_tragedy[:montague][:hero]
 romeo[:status] = "dead"
 juliet = epic_tragedy[:capulet[:hero]
-juliet[:status] = ""
+juliet[:status] = "dead"
 
 
 
